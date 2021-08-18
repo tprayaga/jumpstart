@@ -8,3 +8,5 @@ fields:
 - type: datetime
   name: date
   label: date
+pages:
+- content/posts/how-to-create-your-custom-domain-free-static-website-with-hugo-netlify-forestry.io-github.md
