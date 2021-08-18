@@ -1,4 +1,4 @@
-baseURL = 'http://tprayaga.github.io/jumpstart'
+baseURL = 'http://tprayaga.netlify.app'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
