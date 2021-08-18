@@ -8,7 +8,7 @@ If you want to create your own static website and do it free, and wondering how 
 
 In this post, I will go through how you can setup your custom domain static website using the following tools and services
 
-* GitHub
+* [GitHub](https://github.com/ "GitHub")
 * Netlify
 * Forestry.io
 * Google Domains (setup your custom domain)
