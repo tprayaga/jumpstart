@@ -9,7 +9,7 @@ In this post, I will go through how you can setup your custom domain static webs
 
 * [GitHub](https://github.com/ "GitHub")
 * [Netlify](https://www.netlify.com/ "Netlify")
-* Forestry.io
+* [Forestry.io](https://forestry.io/)
 * Google Domains (setup your custom domain)
 * Mac (to work on your files locally)
 
