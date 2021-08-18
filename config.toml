@@ -1,0 +1,4 @@
+baseURL = 'http://tprayaga.github.io/jumpstart'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "ananke"
